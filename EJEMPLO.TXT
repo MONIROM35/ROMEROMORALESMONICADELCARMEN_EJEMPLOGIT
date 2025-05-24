@@ -1,3 +1,7 @@
 git init //sirve para inicializar el proyecto
 git config --global user.name "MONIROM35" // configurar el usuario que utilizara la cuenta
 git config --global user.email "moni.rom35@gmail.com" //configurar el correo del usuario
+git add . //agregar multiples archivos
+git status //saber el estado de la carga de los archivos
+git commit //agregar comentario
+habia una vez un patito que decia miau miau
